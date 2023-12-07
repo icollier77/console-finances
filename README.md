@@ -120,9 +120,11 @@ You can find the current portfolio webpage, its corresponding code, and the prev
 
 
 
-Credit:
+#### Credit:
+<details>
+    <summary>Attribution</summary>
 
-Financial Calculator Icon: https://www.freepixel.com/images/free-icons-financial-calculator-icon-in-green-and-orange-color-11063127
+- Free financial Calculator Icon from [Freepixel][fin-icon-url].
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -133,3 +135,4 @@ Financial Calculator Icon: https://www.freepixel.com/images/free-icons-financial
 [html-url]: https://www.w3schools.com/html/
 [js-url]: https://www.w3schools.com/js/default.asp
 [cs50-url]: https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?utm_source=google&utm_campaign=19339199037&utm_medium=cpc&utm_term=edx%20cs50%20certificate&hsa_acc=7245054034&hsa_cam=19339199037&hsa_grp=145482383900&hsa_ad=642397268542&hsa_src=g&hsa_tgt=kwd-943661133775&hsa_kw=edx%20cs50%20certificate&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA98WrBhAYEiwA2WvhOjuSuvwvTR6Roh_ofBCdigAjuXu1cveTglwj0XsVvcO94UOTb6X0cRoCj-YQAvD_BwE
+[fin-icon-url]: https://www.freepixel.com/images/free-icons-financial-calculator-icon-in-green-and-orange-color-11063127
