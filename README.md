@@ -9,7 +9,7 @@ Assignment 4 of the Front-End Web Dev bootcamp to analyze financial records of a
 <br />
 <div align="center">
 <!-- Webpage icon -->
-  <a href="https://icollier77.github.io/console-finances/">
+  <a href="https://icollier77.github.io/console-finances/" target="_blank">
     <img src="./assets/calc-icon.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -17,9 +17,9 @@ Assignment 4 of the Front-End Web Dev bootcamp to analyze financial records of a
 
   <p align="center"> This is a mini application built in JavaScript to analyze financial records of a company.</p>
     <!-- links to deployment -->
-    <a href="https://icollier77.github.io/console-finances/">Financial Calculator</a>
+    <a href="https://icollier77.github.io/console-finances/" target="_blank">Financial Calculator</a>
     ·
-    <a href="https://github.com/icollier77/console-finances">GitHub repo</a>
+    <a href="https://github.com/icollier77/console-finances" target="_blank">GitHub repo</a>
     ·
   <br>
   <br>
