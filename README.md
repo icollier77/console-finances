@@ -111,7 +111,7 @@ The deployed page looks like this:
 
 ### `Links to deployed project`
 
-You can find the current portfolio webpage, its corresponding code, and the previous portfolio webpage here:
+You can find the financial calculator app and its corresponding code here:
 
 - [ ] [Financial calculator][deployed-url]
 - [ ] [Project repo][repo-url]
