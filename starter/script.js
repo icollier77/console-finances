@@ -146,7 +146,7 @@ console.log(`Greatest Increase in Profits/Losses: ${monthMaxChange} $${Intl.Numb
 
 var minChange = Math.min(...mmChange);
 
-// find the month with max change
+// find the month with min change
 
 var indexMin = mmChange.indexOf(minChange);
 
