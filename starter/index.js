@@ -101,10 +101,10 @@ console.log(`Total Months: ${totalMonths}`);
 
 var totalProfitLoss = 0;
 
-for (var i = 0; i < totalMonths; i++) {
-  var totalProfitLoss = totalProfitLoss + finances[i][1];
+for (let i = 0; i < totalMonths; i++) {
+  totalProfitLoss = totalProfitLoss + finances[i][1];
 }
-console.log(`Total: $${Intl.NumberFormat('en-US').format(totalProfitLoss)}`)
+console.log(`Total: $${Intl.NumberFormat('en-US').format(totalProfitLoss)}`);
 
 // calculate average of changes: find M/M change and then average
 // 1. create a new array of MoM Change values
@@ -123,9 +123,8 @@ for (let i = 0; i < mmChange.length; i++) {
   sumChanges += mmChange[i];
 }
 
-var averageChange = sumChanges / mmChange.length;
+var averageChange = (sumChanges / mmChange.length).toFixed(2);
 
-averageChange = averageChange.toFixed(2);
 
 console.log(`Average Change: $${Intl.NumberFormat('en-US').format(averageChange)}`);
 
@@ -152,6 +151,8 @@ var minChange = Math.min(...mmChange);
 var indexMin = mmChange.indexOf(minChange);
 
 var monthMinChange = finances[indexMin + 1][0];
+
+// Print the Min Change and its month
 
 console.log(`Greatest Decrease in Profits/Losses: ${monthMinChange} $${Intl.NumberFormat('en-US').format(minChange)}`);
 
